@@ -1,5 +1,5 @@
 
-# Automação de Envio de Emails
+# Automação de Envio de Emails  ( Projeto de Estudo )
 
 Nesse projeto que fiz em python utilizando as bibliotecas pandas e pyautogui, extrai alguns dados de um arquivo .xlsx e automatizei o processo de enviar emails tanto de promoção quanto demissão para "funcionarios" de uma "empresa", aqui quis simular uma tarefa básica que poderia ser aplicada dentro de uma empresa real. 
 
